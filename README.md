@@ -1,4 +1,16 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# react-app-ts-template
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), I enhanced it with a few features such as:
+
+- prettier
+- vscode settings
+- test/lint on precommit
+
+Checkout the git history if you want to add those features on your own project (or fork this one).
+
+I will add other features from my other projects like [topheman/npm-registry-browser](https://github.com/topheman/npm-registry-browser) in the next weeks and write better docs.
+
+---
 
 ## Available Scripts
 
